@@ -1,0 +1,7 @@
+#lista númerica
+print("----------Lista númerica----------")
+lista= []
+for x in range(10):
+    c = int(input("Digite um número: "))
+    lista.append(c)
+print(lista)
